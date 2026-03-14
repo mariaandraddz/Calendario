@@ -14,4 +14,4 @@ Uma aplicação simples e eficiente desenvolvida em Python para visualização e
 - Bibliotecas: calendar e datetime
 
 # Visualização
-<img src="Calendario" alt="">
+<img src="Calendário" alt="">
